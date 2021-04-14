@@ -4,20 +4,6 @@
 
 This is Asif Azad. Currently a CSE undergrad at Bangladesh University of Engineering and Technology. I am simple, curious and want to acquaint myself with everything that intrigue me.
 
-<!--
-**BRAINIAC2677/BRAINIAC2677** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
--  I’m currently working on *Who Knows* :wink:
-- 🌱 I’m currently learning everything. :laughing:
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about *Not anything* :smile_cat:
-- 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 - :star: Pseudo Name: *BRAINIAC77*
 - :computer: I just love problem solving and competitive programming. :blue_heart:
@@ -25,6 +11,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on _Who Knows_ :wink:
 - 🌱 I’m currently learning everything. :laughing:
 - 💬 Ask me about _Not anything_ :smile_cat:
+
 
 ## Connect with me:
 
@@ -52,6 +39,8 @@ Here are some ideas to get you started:
 ![MS Word](https://img.shields.io/badge/-MS%20Word-000000?style=flat&logo=microsoft%20word)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BRAINIAC2677&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BRAINIAC2677)](https://github.com/anuraghazra/github-readme-stats)
 
 ## My Programming Performances
 
