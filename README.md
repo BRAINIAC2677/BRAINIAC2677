@@ -9,7 +9,7 @@ This is Asif Azad. Currently a CSE undergrad at Bangladesh University of Enginee
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on *Who Knows* :wink:
+-  I’m currently working on *Who Knows* :wink:
 - 🌱 I’m currently learning everything. :laughing:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -19,7 +19,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 📫 Pseudo Name: *BRAINIAC77*
+- :star: Pseudo Name: *BRAINIAC77*
+- :computer: I just love problem solving and competitive programming. :blue_heart:
+- :boom: I am also interested in web development.
 - 🔭 I’m currently working on _Who Knows_ :wink:
 - 🌱 I’m currently learning everything. :laughing:
 - 💬 Ask me about _Not anything_ :smile_cat:
@@ -48,6 +50,8 @@ Here are some ideas to get you started:
 ![Github](https://img.shields.io/badge/-Github-000000?style=flat&logo=github) <br />
 ![IntellIJ](https://img.shields.io/badge/-IntellIJ%20IDEA-000000?style=flat&logo=intellij%20idea) <br />
 ![MS Word](https://img.shields.io/badge/-MS%20Word-000000?style=flat&logo=microsoft%20word)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BRAINIAC2677&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## My Programming Performances
 
