@@ -64,4 +64,4 @@ Here are some ideas to get you started:
 [website]: https://github.com/BRAINIAC2677
 [facebook]: https://www.facebook.com/asif.azad.52438
 [codeforces]: https://codeforces.com/profile/BRAINIAC77
-[linkedin]: https:https://www.linkedin.com/in/asif-azad-5420b51a9/
+[linkedin]: https://www.linkedin.com/in/asif-azad-5420b51a9/
