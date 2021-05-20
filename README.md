@@ -1,5 +1,5 @@
 
-
+![](https://komarev.com/ghpvc/?username=BRAINIAC2677&color=brightgreen)
 ### Hi there 👋
 
 This is Asif Azad. Currently a CSE undergrad at Bangladesh University of Engineering and Technology. I am simple, curious and want to acquaint myself with everything that intrigue me.
@@ -35,6 +35,8 @@ This is Asif Azad. Currently a CSE undergrad at Bangladesh University of Enginee
 
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)
 ![Github](https://img.shields.io/badge/-Github-000000?style=flat&logo=github) <br />
+![EReact](https://img.shields.io/badge/-React-000000?style=flat&logo=react) <br />
+![Firebase](https://img.shields.io/badge/-firebase-000000?style=flat&logo=firebase) <br />
 ![IntellIJ](https://img.shields.io/badge/-IntellIJ%20IDEA-000000?style=flat&logo=intellij%20idea) <br />
 ![MS Word](https://img.shields.io/badge/-MS%20Word-000000?style=flat&logo=microsoft%20word)
 
