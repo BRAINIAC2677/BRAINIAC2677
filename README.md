@@ -1,4 +1,36 @@
+## Hi There! 👋
 
+![](https://komarev.com/ghpvc/?username=BRAINIAC2677&color=brightgreen)
+<!--
+**sadat-hossain-01/sadat-hossain-01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here are some ideas to get you started:
+
+-->
+
+This is **Asif Azad**, a **Senior Year (Level-4, Term 1) CS Undergraduate Student** at **Bangladesh University of Engineering and Technology**.
+
+## Profile Overview
+
+<div align="center">
+  
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BRAINIAC2677&theme=onedark)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BRAINIAC2677&theme=onedark) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BRAINIAC2677&theme=onedark)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=BRAINIAC2677&theme=onedark) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BRAINIAC2677&theme=onedark&utcOffset=8)
+
+</div>
+
+## Connect with me:
+
+<!--
+[<img align="left" alt="Asif Azad" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+-->
+
+[<img align="left" alt="Asif Azad | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Asif Azad | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="Asif Azad | Codeforces" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg" />][codeforces]
+<!--
 ![](https://komarev.com/ghpvc/?username=BRAINIAC2677&color=brightgreen)
 ### Hi there 👋
 
@@ -33,7 +65,7 @@ This is Asif Azad. Currently a CSE undergrad at Bangladesh University of Enginee
 [<img align="left" alt="Asif Azad | Codeforces" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg" />][codeforces]
 
 <br />
-<!--
+
 ## My Programming Performances
 
 | Competition Name|2020|2021| 2022 | 2023 |
