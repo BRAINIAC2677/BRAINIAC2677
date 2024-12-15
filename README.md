@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 -->
 
-This is **Asif Azad**, a **Senior Year (Level-4, Term 1) CS Undergraduate Student** at **Bangladesh University of Engineering and Technology**.
+This is **Asif Azad**, a **Senior Year (Level-4, Term 2) CS Undergraduate Student** at **Bangladesh University of Engineering and Technology**.
 
 ## Profile Overview
 
@@ -21,15 +21,6 @@ This is **Asif Azad**, a **Senior Year (Level-4, Term 1) CS Undergraduate Studen
 
 </div>
 
-## Connect with me:
-
-<!--
-[<img align="left" alt="Asif Azad" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
--->
-
-[<img align="left" alt="Asif Azad | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Asif Azad | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="Asif Azad | Codeforces" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg" />][codeforces]
 <!--
 ![](https://komarev.com/ghpvc/?username=BRAINIAC2677&color=brightgreen)
 ### Hi there 👋
