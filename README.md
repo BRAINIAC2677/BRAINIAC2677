@@ -1,9 +1,11 @@
+<div style="font-family: 'Ubuntu', sans-serif;">
+
 <!-- Header with catchy greeting and animated elements -->
 <div align="center">
   
 # 👋 Hi, This is Asif Azad.
 
-  <img src="./landing-image-1.jpg" alt="Asif Azad - AI Engineer" width="600px" />
+  <img src="./landing-image-1.jpg" alt="Asif Azad - AI Engineer" width="100%" />
   
   <!-- Animated wave -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,18&height=120&section=header&text=&fontSize=60" />
@@ -19,6 +21,7 @@
 [![Website](https://img.shields.io/badge/🌐-Website-blue?style=for-the-badge)](https://brainiac2677.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asifazad2677/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/asif_azad2677/)
+[![Email](https://img.shields.io/badge/📧-asifazad0178@gmail.com-red?style=for-the-badge&labelColor=black&color=red)](mailto:asifazad0178@gmail.com)
 
 </div>
 
@@ -26,41 +29,25 @@
 
 ## 🧬 **About Me**
 
-🌍 **Currently working remotely** as an AI Engineer at Ministry of Defence, KSA
-
-🎓 **Fresh CS Graduate** from Bangladesh University of Engineering and Technology (BUET) - March 2025
-
-🏀 **Sports Lover** - Active in basketball, Swimming and table tennis
-
-🎤 **Public Speaker** - Passionate about exploring and sharing transformative ideas
-
-📍 **Based in Dhaka, Bangladesh**
+- 🌍 **Currently working remotely** | AI Engineer at Ministry of Defence, KSA
+- 🎓 **Fresh CS Graduate** | Bangladesh University of Engineering and Technology (BUET) - March 2025
+- 🏀 **Sports Lover** | Active in basketball, Swimming and table tennis
+- 🎤 **Public Speaker** | Passionate about exploring and sharing transformative ideas
+- 📍 **Based in Dhaka, Bangladesh**
 
 ---
 
 ## 🌟 **Philosophy**
 
-> *"Life is Beautiful"*
+> <kbd>***"Life is Beautiful"***</kbd>
 
 I believe life is a precious gift meant to be fully experienced and shared. Always open to meaningful conversations about technology, cinema, sports, or life's beautiful complexities.
-
----
-
-<div align="center">
-
-## 💌 **Get In Touch**
-
-**Ready for a meaningful conversation?**
-
-[![Email](https://img.shields.io/badge/📧-asifazad0178@gmail.com-red?style=for-the-badge&labelColor=black&color=red)](mailto:asifazad0178@gmail.com)
-
-*Let's discuss technology, life or anything in between!*
-
-</div>
 
 ---
 
 <!-- Footer wave -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,18&height=120&section=footer" />
+</div>
+
 </div>
